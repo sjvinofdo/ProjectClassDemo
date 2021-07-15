@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9736" started-at="2021-07-05T13:49:52Z" finished-at="2021-07-05T13:50:01Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9736" started-at="2021-07-05T13:49:52Z" finished-at="2021-07-05T13:50:01Z">
+      <class name="org.test.SuiteLevelExec">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.test.SuiteLevelExec@cb644e]" name="beforeClass" is-config="true" duration-ms="5768" started-at="2021-07-05T13:49:52Z" finished-at="2021-07-05T13:49:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:org.test.SuiteLevelExec@cb644e]" name="testCase1" duration-ms="1366" started-at="2021-07-05T13:49:58Z" finished-at="2021-07-05T13:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:org.test.SuiteLevelExec@cb644e]" name="testCase2" duration-ms="2349" started-at="2021-07-05T13:49:59Z" finished-at="2021-07-05T13:50:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.test.SuiteLevelExec@cb644e]" name="afterClass" is-config="true" duration-ms="204" started-at="2021-07-05T13:50:01Z" finished-at="2021-07-05T13:50:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.test.SuiteLevelExec -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
